@@ -1,0 +1,65 @@
+html {
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+body {
+    background: url("WidgetCoLogo.gif") no-repeat center;
+    background-size: width: 100px, height: 100px;
+    
+    
+}
+header {
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 17px;
+    ;
+
+}
+aside::first-line {
+    font-weight: bold;
+}
+aside {
+    text-align: right;
+    float: right;
+    display: inline;
+    font-size: 17px;
+}
+h1 {
+    text-align: justify;
+    font-size: 50px;
+    width: 65%;
+    
+}
+h2 {
+    
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+p {
+    text-align: justify;
+}
+div {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+section {
+    background-color: rgba(255, 255, 0, 0.126);
+    border: 1px green;
+    border-left: 10px green;
+    outline-style: solid;
+    outline-color: green;
+    outline-width: medium;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer {
+    border-top: 1px solid black;
+    text-align: right;
+    color: rgba(128, 128, 128, 0.669);
+}
+footer a:link {
+    color: rgba(128, 128, 128, 0.669);
+}

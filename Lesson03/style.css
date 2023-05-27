@@ -1,0 +1,30 @@
+/* Golbal Styles*/
+img {
+    width: 300px;
+}
+body {
+    color: white;
+}
+a {
+    color: #7547FF;
+}
+
+/* About */
+header {
+    background: #E7C6FF;
+}
+
+/* Projects */
+.projects {
+    background: #C8B6FF;
+}
+
+/* Education */
+.education {
+    background: #B8C0FF;
+}
+
+/* Contact */
+footer {
+    background: #BBD0FF;
+}
